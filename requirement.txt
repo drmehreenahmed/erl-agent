@@ -1,16 +1,7 @@
 streamlit
 opencv-python
 numpy
-pillow
+Pillow
 requests
 python-dotenv
 sentence-transformers
-torch
-torchvision
-ultralytics
-paddleocr
-paddlepaddle
-cnocr
-scikit-learn
-matplotlib
-pandas
